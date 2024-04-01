@@ -32,6 +32,9 @@
 <img align="left" alt="PostgreSQL" width="70px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="left" alt="MySQL" width="70px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynickleo&layout=compact)](https://github.com/mynickleo/github-readme-stats)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mynickleo&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mynickleo&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mynickleo&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mynickleo&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mynickleo&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mynickleo&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mynickleo&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mynickleo&theme=github)
