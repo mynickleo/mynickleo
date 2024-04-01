@@ -14,7 +14,7 @@
 
 ---
 
-## Languages and Tools
+## 🧰 Languages and Tools
 
 <p>
 <img align="left" alt="Git" width="50px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
@@ -43,17 +43,7 @@
 #
 
 
-## Stats
+## 📊 Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mynickleo&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mynickleo&theme=github)
-
-#
-
-
-## Contact me
-
-<div align='center'>
-  <a align='top' href='https://t.me/johnnyserebr'><img src='./images/telegram.png' alt='Telegram' width='60' height=auto></a>
-  <div align='top' >kamnevvova@gmail.com</div>
-</div>
