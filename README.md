@@ -53,7 +53,7 @@
 
 ## Contact me
 
-<div align='center' style = "display: flex; flex-direction: row; align-items: center; justify-content: center">
-  <a style = "margin: 10px;" href='https://t.me/johnnyserebr'><img src='./images/telegram.png' alt='Telegram' width='60' height=auto></a>
-  <div style = "margin: 10px;">kamnevvova@gmail.com</div>
+<div align='center' style="display: flex; flex-direction: row; align-items: center; justify-content: center">
+  <a style="margin: 10px;" href='https://t.me/johnnyserebr'><img src='./images/telegram.png' alt='Telegram' width='60' height=auto></a>
+  <div style="margin: 10px;">kamnevvova@gmail.com</div>
 </div>
