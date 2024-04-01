@@ -1,10 +1,10 @@
 <div align ='center'>
   <a href='https://github.com/mynickleo'>
-    <img src='header.png' alt='Логотип профиля' />
+    <img src='./images/header.png' alt='Логотип профиля' />
   </a>
 </div>
 
-# 🏄‍♂️ My nick Jleo
+# 🏄‍♂️ Jleo
 
 **`Full-stack and Game developer`**
 
@@ -42,7 +42,18 @@
 
 #
 
+
 ## Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mynickleo&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mynickleo&theme=github)
+
+#
+
+
+## Contact me
+
+<div align='center'>
+  <a href='https://t.me/johnnyserebr'><img src='./images/telegram.png' alt='Telegram' width='60' height=auto></a>
+  <div>kamnevvova@gmail.com</div>
+</div>
