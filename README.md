@@ -14,8 +14,6 @@
 
 ---
 
-<br />
-
 ## 🧰 Languages and Tools
 
 <p>
@@ -36,7 +34,6 @@
 <img align="left" alt="MySQL" width="50px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </p>
 
-<br />
 <br />
 <br />
 <br />
