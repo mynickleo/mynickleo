@@ -44,5 +44,5 @@
 
 ## 📊 Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mynickleo&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mynickleo&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mynickleo&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mynickleo&theme=transparent)
